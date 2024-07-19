@@ -1,0 +1,24 @@
+# EditorConfig helps maintain consistent coding styles for multiple developers
+# working on the same project across various editors and IDEs.
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# 80 character width
+[*.c]
+max_line_length = 80
+
+# Indentation style and size
+indent_style = tab
+indent_size = 8
+
+# Set charset to UTF-8
+charset = utf-8
+
+# Trim trailing whitespace
+trim_trailing_whitespace = true

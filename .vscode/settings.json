@@ -1,0 +1,7 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.clang_format_style": "file",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 8,
+    "editor.detectIndentation": false
+}
